@@ -1,8 +1,9 @@
 # Substrate Node Template
 
-[![Try on playground](https://img.shields.io/badge/Playground-Node_Template-brightgreen?logo=Parity%20Substrate)](https://playground.substrate.dev/?deploy=node-template) [![Matrix](https://img.shields.io/matrix/substrate-technical:matrix.org)](https://matrix.to/#/#substrate-technical:matrix.org)
+Repository of pallets I have designed.
 
-A fresh FRAME-based [Substrate](https://www.substrate.io/) node, ready for hacking :rocket:
+- Ownership pallet
+  -  Tracks ownership of resources that has been registered.
 
 ## Getting Started
 
