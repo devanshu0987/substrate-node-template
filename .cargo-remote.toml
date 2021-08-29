@@ -1,0 +1,6 @@
+[[remote]]
+name = "myRemote" # Not needed for a single remote
+host = "server1" # Could also be a ssh config entry
+ssh_port = 22 # defaults to 22
+temp_dir = "~/remote-builds" # Default is "~/remote-builds"
+env = "~/.cargo/env" # Default is "/etc/profile"
